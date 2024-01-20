@@ -31,7 +31,7 @@ setup(
     install_requires=[
         "configparser>=5.0.1",
         "kaitaistruct>=0.9",
-        "puresnmp>=1.10.2",
+        "puresnmp=1.10.2",
         "asyncio>=3.4.3",
         "dmr_utils3>=0.1.29",
         "bitarray>=1.6.1",
